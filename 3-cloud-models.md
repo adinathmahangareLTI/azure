@@ -18,5 +18,14 @@
 - A hybrid cloud environment can be used to allow a private cloud to surge for increased, temporary demand by deploying public cloud resources.
 - Hybrid cloud can be used to provide an extra layer of security. For example, users can flexibly choose which services to keep in public cloud and which to deploy to their private cloud infrastructure.
 
+4. Multi-cloud
+- you use multiple public cloud providers
+- Maybe you use different features from different cloud providers
+- Or maybe you started your cloud journey with one provider and are in the process of migrating to a different provider
+- Regardless, in a multi-cloud environment you deal with two (or more) public cloud providers and manage resources and security in both environments.
+
+Azure Arc is a set of technologies that helps manage your cloud environment. Azure Arc can help manage your cloud environment, whether it's a public cloud solely on Azure, a private cloud in your datacenter, a hybrid configuration, or even a multi-cloud environment running on multiple cloud providers at once.
+
+
 
 
